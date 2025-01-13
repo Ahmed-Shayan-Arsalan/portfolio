@@ -1,7 +1,7 @@
 export const projects=[
     {
         name:'SkillSeeker',
-        src:'estrakt.webp',
+        src:'SKILLSEEKER.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/SkillSeeker-Exp-Ver-',
         color:"#000000",
         tech:'Groq/Trained Models/Langchain',
