@@ -16,12 +16,12 @@ export const projects=[
         type:'Full Stack',
     },
     {
-        name:'Rush Hour',
-        src:'rushhour.webp',
-        link:'https://github.com/Ahmed-Shayan-Arsalan/Rush-Hour-C-Game',
+        name:'HakeemBot',
+        src:'Hakeem.webp',
+        link:'https://www.hakeembot.com/',
         color:"#8c8c8c",
-        tech:'C++ & OpenGL Utility Toolkit',
-        type:'C++',
+        tech:'Gemini/MongoDB/Vercel',
+        type:'GenAI',
     },
     {
         name:'LSH On Audio data',
