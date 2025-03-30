@@ -24,7 +24,7 @@ export const projects=[
         type:'GenAI',
     },
     {
-        name:'Spanish Immigration Assistant',
+        name:'Spain Immigration Assistant',
         src:'Lawbot.webp',
         link:'https://spain-front-two.vercel.app/',
         color:"#8c8c8c",
