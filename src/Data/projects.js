@@ -40,6 +40,14 @@ export const projects=[
         type:'AI',
     },
     {
+        name:'Video Frame Prediction',
+        src:'CrossAttention.webp',
+        link:'https://github.com/Ahmed-Shayan-Arsalan/Comparative-Analysis-of-Video-Prediction-Models',
+        color:"#EFE8D3",
+        tech:'RNN/Transformers/CNN',
+        type:'Deep Learning',
+    },
+    {
         name:'Word Search Via Genetic Algorithm',
         src:'genetic.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/Word-Search-Via-Genetic-Algorithm',
