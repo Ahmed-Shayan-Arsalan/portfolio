@@ -24,6 +24,14 @@ export const projects=[
         type:'GenAI',
     },
     {
+        name:'Spanish Immigration Assistant',
+        src:'Lawbot.webp',
+        link:'https://spain-front-two.vercel.app/',
+        color:"#8c8c8c",
+        tech:'LangGraph/OpenAI/Recurrent-RAG (Contextual Base)',
+        type:'SaaS',
+    },
+    {
         name:'LSH On Audio data',
         src:'audio.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/LSH-On-Audio-Data',
