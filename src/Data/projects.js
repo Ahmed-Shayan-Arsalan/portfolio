@@ -48,6 +48,14 @@ export const projects=[
         type:'Deep Learning',
     },
     {
+        name:'Data Pipeline (Kafka)',
+        src:'Kafka.webp',
+        link:'https://github.com/Ahmed-Shayan-Arsalan/Data-Pipeline-Kafka-',
+        color:"#706D63",
+        tech:'Python/Kafka/Linux',
+        type:'CI/CD',
+    },
+    {
         name:'Word Search Via Genetic Algorithm',
         src:'genetic.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/Word-Search-Via-Genetic-Algorithm',
@@ -60,7 +68,7 @@ export const projects=[
         src:'hadoop.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/Node-Mapping-Via-Hadoop',
         color:"#8c8c8c",
-        tech:'Python',
+        tech:'Python/Hadoop',
         type:'Node Manipulation',
     },
     {
