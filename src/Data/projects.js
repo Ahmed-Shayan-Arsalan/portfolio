@@ -10,7 +10,7 @@ export const projects=[
     {
         name:'Estrakt',
         src:'estrakt.webp',
-        link:'https://estrakt.com',
+        link:'https://estrakt.com/',
         color:"#000000",
         tech:'Hostinger & Wordpress',
         type:'Full Stack',
