@@ -64,6 +64,14 @@ export const projects=[
         type:'Web-Scraping',
     },
     {
+        name:'Datawarehouse Pipeline (Meshjoin)',
+        src:'DW.webp',
+        link:'https://github.com/Ahmed-Shayan-Arsalan/MeshJoin-Warehouse',
+        color:"#706D63",
+        tech:'SQL/Java',
+        type:'Data Warehousing',
+    },
+    {
         name:'Word Search Via Genetic Algorithm',
         src:'genetic.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/Word-Search-Via-Genetic-Algorithm',
