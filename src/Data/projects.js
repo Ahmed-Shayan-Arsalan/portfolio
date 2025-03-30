@@ -56,6 +56,14 @@ export const projects=[
         type:'CI/CD',
     },
     {
+        name:'Automated Amazon Scraper',
+        src:'Amazon.webp',
+        link:'https://github.com/Ahmed-Shayan-Arsalan/Amazon-Scraper-Using-User-Agents',
+        color:"#706D63",
+        tech:'BS4/Selenium',
+        type:'Web-Scraping',
+    },
+    {
         name:'Word Search Via Genetic Algorithm',
         src:'genetic.webp',
         link:'https://github.com/Ahmed-Shayan-Arsalan/Word-Search-Via-Genetic-Algorithm',
@@ -77,7 +85,7 @@ export const projects=[
         link:'https://github.com/Ahmed-Shayan-Arsalan/Graph-Layouts-Using-d3.js',
         color:"#EFE8D3",
         tech:'d3.js',
-        type:'Node Manipulation',
+        type:'Graph Manipulation',
     },
     
 ]
